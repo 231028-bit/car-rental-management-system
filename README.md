@@ -1,6 +1,6 @@
 # Car Rental Management System
 
-Software Engineering Lab — Phase 2
+Software Engineering Lab
 
 ## Project Description
 A web-based system for managing car rentals,
